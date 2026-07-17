@@ -235,7 +235,7 @@ function showResult() {
 
     clearInterval(id);
 
-    let percentage = ((rightAnswer / quiz.length) * 100).toFixed(2);
+    let percentage = ((rightAnswer / quiz.length) * 100);
 
     document.body.innerHTML = `
         <div style="text-align:center; margin:400px 770px; padding:40px; width: 400px; border: 2px dashed black">
