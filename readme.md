@@ -113,3 +113,7 @@ Responsibilities:
 - Result Screen
 
 ---
+
+### Video Explaination 
+
+- Google drive link:- https://drive.google.com/file/d/17iDHFmBTaPo2d80zcyywnz5S0NZeY7wu/view?usp=sharing
